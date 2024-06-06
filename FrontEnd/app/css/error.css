@@ -1,0 +1,8 @@
+.error-div {
+	font-size: 4rem;
+	color: rgb(162, 163, 163);
+	position: absolute;
+	bottom: 50%;
+	right: 50%;
+	transform: translateX(50%) translateY(50%);
+}
